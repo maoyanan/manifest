@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<remote name="origin" fetch="https://github.com/maoyanan/"/>
+	<default remote="origin" revision="master"/>
+	<project name="utils" path="utils" revision="test"/>
+	<project name="utils" path="utils2" revision="master"/>
+</manifest>
